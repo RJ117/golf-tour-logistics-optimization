@@ -86,7 +86,8 @@ This climatological alignment reduces weather disruptions and justifies geograph
 ![Travel vs Cost Comparison](images/travel_comparison.png)
 
 ### Average Temperatures by Swing
-![Temperature Chart](images/temperature_chart.png)
+![Temperature Chart](<img width="2600" height="1400" alt="temperature_chart_months" src="https://github.com/user-attachments/assets/59fb198f-c10f-457f-84ed-8e66a3ed2527" />
+)
 
 ### Routing Maps
 - **Actual 2025 Routing**  

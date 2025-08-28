@@ -105,7 +105,3 @@ The Korn Ferry Tour’s 2025 schedule imposes excessive travel. A **PGA-style sw
 - Enhance **performance, fan engagement, and sustainability**.
 
 ---
-
-**Repository Name**: `golf-tour-logistics-optimization`  
-**Report Title**: *Optimizing Korn Ferry Tour Travel: A PGA-Style Swing Model Analysis (2025 Season)*
-
